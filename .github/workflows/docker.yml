@@ -1,4 +1,5 @@
 # .github/workflows/docker.yml
+name: Docker Build
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,4 +14,3 @@ on: [push]
   run: |
     docker build -t imscn .
     docker push kishorrvcmvit/mscn
-
