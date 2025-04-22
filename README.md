@@ -5,6 +5,7 @@
 📍 Mode: Local (Docker, Minikube, GitHub)
 📍 Time: ~6–8 hours (can split into weekends)
 
+
 ✅ [Phase 1: Setup Basic Python App]
  Install Python3 & pip
 
