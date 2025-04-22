@@ -21,4 +21,4 @@ jobs:
         run: |
           docker build -t imscn .
           docker images
-          docker push imscn kishorrvcmvit/mscn:latest
+          docker push kishorrvcmvit/mscn/imscn:latest
