@@ -19,6 +19,8 @@ jobs:
 
       - name: Build and push
         run: |
-          docker build -t imscn .
-          docker images
-          docker push kishorrvcmvit/imscn:latest
+          docker build -t kishorrvcmvit/mscn:latest .
+          # docker images
+          docker push kishorrvcmvit/mscn:latest
+
+
